@@ -6,6 +6,6 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=dev6920&color=grey">
 </p>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1011276882110582804)](https://discord.com/users/1025895234418249789
+<img src="(https://lanyard-profile-readme.vercel.app/api/1011276882110582804)](https://discord.com/users/1025895234418249789
 
 
